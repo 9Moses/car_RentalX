@@ -24,7 +24,7 @@ import location_ from "./location_.png";
 import calender_ from "./calender_.png";
 import calender_bo from "./calender_bo.png";
 import honda from "./honda.png";
-import audi from "./audi.png";
+import audi from "./Audi.png";
 import nissan from "./nissan.png";
 import mazda from "./mazda.png";
 import toyota from "./toyota.png";
